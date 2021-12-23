@@ -1,8 +1,8 @@
 Ivan Minchanka
 ============
 
-email: antifitamin@gmail.com
-telegram: @work_IM
+email: minchanka.ivan@gmail.com
+telegram: @per_IM
 -------------------     
 
 Experience
@@ -22,11 +22,11 @@ Skills
 * Human Languages:
 
      * Russian (native speaker)
-     * English (A2?)
+     * English (B1)
 
 * Programming Languages:
 
-     * 
+     * JavaScript
 
 * Frameworks:
 
@@ -53,6 +53,10 @@ Experience
 Education
 ---------
 
-*   The Rolling Scopes School; Android Course
+*   freeCodeCamp; JavaScript Algorithms and Data Structures
 
-    > 2021-2022 (expected)
+    > 2021
+
+*   The Rolling Scopes School; JS / FRONT-END. STAGE 0
+
+    > 2021 - 2022 (expected)

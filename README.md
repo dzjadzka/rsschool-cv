@@ -1,1 +1,2 @@
-https://Kydoimos.github.io/rsschool-cv/cv
+https://kydoimos.github.io/rsschool-cv/
+https://kydoimos.github.io/rsschool-cv/cv
